@@ -1,4 +1,4 @@
-print("===== Student Grade Calculator =====")
+print("==== Student Grade Calculator ====")
 
 name = input("Enter Student Name: ")
 
@@ -24,7 +24,7 @@ elif percentage >= 50:
 else:
     grade = "F"
 
-print("\n===== Result =====")
+print("\n==== Result ====")
 print("Student Name :", name)
 print("Total Marks  :", total, "/500")
 print("Percentage   :", round(percentage, 2), "%")
