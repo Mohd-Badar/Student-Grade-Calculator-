@@ -1,3 +1,6 @@
+# Simple student grade calculator (Python)
+# Created by Mohd Badar 
+
 print("==== Student Grade Calculator ====")
 
 name = input("Enter Student Name: ")
